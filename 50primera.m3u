@@ -1,0 +1,92 @@
+#EXTM3U
+#EXTINF:-1,tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Ffree-png-tabth&psig=AOvVaw18ZVwO0ymo92g9U0AyirjD&ust=1716779607377000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCeuJ2fqoYDFQAAAAAdAAAAABAJ
+TOP GEAR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FCanal8NTV&psig=AOvVaw2In-P-s4A0uuD29jPq8VDr&ust=1716779769181000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDyvN2fqoYDFQAAAAAdAAAAABAE
+8NTV
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fappadvice.com%2Fapp%2F15-tv-sabinas%2F637947453&psig=AOvVaw1k1LUoH6t2bRsCnV5LF48d&ust=1716779865695000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiEt4ugqoYDFQAAAAAdAAAAABAE
+SABINAS
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Ftv_alcance&psig=AOvVaw3Qsv-XEi9NZxQNIADYUiiB&ust=1716779917966000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPip56SgqoYDFQAAAAAdAAAAABAE
+ALCANCE TV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fradioytvmexiquense.mx%2Findex.php%2Ftelevision%2Finformativos%2F&psig=AOvVaw3fI5QFKpwrEBsgVDlR-xyC&ust=1716779976216000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNins8CgqoYDFQAAAAAdAAAAABAE
+AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1,,tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_canal_4_California_Medios.jpg&psig=AOvVaw00A2J17XenQxnO_pGC2m7E&ust=1716780026066000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDQqdigqoYDFQAAAAAdAAAAABAE
+CALIFORNIA MEDIOS
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-evmpa&psig=AOvVaw04pkFzQ8UcrLwfIKNEGXvi&ust=1716780123517000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiWsoahqoYDFQAAAAAdAAAAABAJ
+CLARO SPORTS
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1766474554044485633/zMMooA4L_400x400.jpg
+EXPRESSA
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FGikTVMX&psig=AOvVaw2OLoMalmCvyxsOe2pfzPve&ust=1716780275397000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCHms-hqoYDFQAAAAAdAAAAABAE
+GIKTVMX
+#EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
+
+#EXTINF:-1,tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapktodo.io%2Fes%2Flobotv%2F&psig=AOvVaw2El71ytb-dQHfoPTSj_S8M&ust=1716780322058000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiXmeWhqoYDFQAAAAAdAAAAABAE
+LOBOTV
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapktodo.io%2Fes%2Flobotv%2F&psig=AOvVaw2El71ytb-dQHfoPTSj_S8M&ust=1716780322058000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDn7IWiqoYDFQAAAAAdAAAAABAE
+MEGANOTICIAS
+https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.google.com/imgres?q=TELERITMOTV%20JPG&imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1689090788922155008%2FP5QlvINy_400x400.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2FTeleritmoTv&docid=E_xnjCfaAlhQ8M&tbnid=A1O6LC4gg4gV1M&vet=12ahUKEwiDy5Hjr6qGAxXUG9AFHUr0Cd0QM3oECBgQAA..i&w=400&h=400&hcb=2&ved=2ahUKEwiDy5Hjr6qGAxXUG9AFHUr0Cd0QM3oECBgQAA
+TELERITMO
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.google.com/imgres?q=TUDNTV%20JPG&imgurl=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Ftudn-tv7860.logowik.com.webp&imgrefurl=https%3A%2F%2Flogowik.com%2Ftudn-tv-logo-vector-38876.html&docid=pSfqOiafcNwYXM&tbnid=RqMs4k79hjajiM&vet=12ahUKEwjiloyDsKqGAxX_6ckDHQhGCysQM3oECBgQAA..i&w=866&h=650&hcb=2&ved=2ahUKEwjiloyDsKqGAxX_6ckDHQhGCysQM3oECBgQAA
+TUDN
+ttp://190.61.102.67:2000/play/a08j/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.google.com/imgres?q=VIXTV%20JPG&imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2Fs2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.univision.prendetv%26hl%3Des&docid=SxSSrXn2ukobBM&tbnid=7S41y5aju5z02M&vet=12ahUKEwjdz5iVsKqGAxV45ckDHSVQD4AQM3oECBwQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjdz5iVsKqGAxV45ckDHSVQD4AQM3oECBwQAA
+VIX
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.google.com/imgres?q=CONECTA%20TV%20JPG&imgurl=https%3A%2F%2Fcigars.roku.com%2Fv1%2Fcontain%2F800x454%2Fhttps%253A%252F%252Fimage.roku.com%252Fdeveloper_channels%252Fprod%252Fb2e3b7b0a7e6c4bdbe9d204a487a96581d5b135c2c5f1903ccb6f2dd64314164.jpg&imgrefurl=https%3A%2F%2Fchannelstore.roku.com%2Fdetails%2F340b632ee45472eec24b0f04997cf726%2Fconecta-tv-mexico&docid=XeRteDrs0g_ZfM&tbnid=bHcR5Wfk4mf5EM&vet=12ahUKEwjF3tewsKqGAxV2_8kDHQi9DKkQM3oECBsQAA..i&w=800&h=454&hcb=2&ved=2ahUKEwjF3tewsKqGAxV2_8kDHQi9DKkQM3oECBsQAA
+CONECTA TV
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.google.com/imgres?q=ZAZ%20TV%20JPG&imgurl=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiWQ8pKRdz9oagDR9VNf-ZC2q9HmPkqNHHCPzzVACii0-drVxmARoH89ANvvyO4sKAe16iFzXp3K9CM7mKvjpMw8KG_VDPDD7WmRxVm9jcKAhYbalQhlLa-JnG89CGpDmAPGvcZpZukJrHCI5Os4qp1Rg0V1nk545lF4P4ED7K0h9cKWFH6j2BfuN1PRw%2Fs1280%2Fzaz.jpg&imgrefurl=https%3A%2F%2Fcentralplusco.blogspot.com%2F2022%2F05%2Fel-legendario-canal-zaz-es-lanzado.html&docid=bz4_CpWyiqxOKM&tbnid=_jIsrD0oCg_kuM&vet=12ahUKEwiX2NvOsKqGAxUa5MkDHZbbAiIQM3oECHYQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwiX2NvOsKqGAxUa5MkDHZbbAiIQM3oECHYQAA
+ZAZ
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+https://www.google.com/imgres?q=ZAZ%20TV%20JPG&imgurl=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiWQ8pKRdz9oagDR9VNf-ZC2q9HmPkqNHHCPzzVACii0-drVxmARoH89ANvvyO4sKAe16iFzXp3K9CM7mKvjpMw8KG_VDPDD7WmRxVm9jcKAhYbalQhlLa-JnG89CGpDmAPGvcZpZukJrHCI5Os4qp1Rg0V1nk545lF4P4ED7K0h9cKWFH6j2BfuN1PRw%2Fs1280%2Fzaz.jpg&imgrefurl=https%3A%2F%2Fcentralplusco.blogspot.com%2F2022%2F05%2Fel-legendario-canal-zaz-es-lanzado.html&docid=bz4_CpWyiqxOKM&tbnid=_jIsrD0oCg_kuM&vet=12ahUKEwiX2NvOsKqGAxUa5MkDHZbbAiIQM3oECHYQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwiX2NvOsKqGAxUa5MkDHZbbAiIQM3oECHYQAA
+
+#EXTINF:-1,tvg-logo="https://www.google.com/imgres?q=ITV%20DEPORTESTV%20JPG&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100064564367229&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Finternettvdeportes%2F&docid=begB4flLqqs-6M&tbnid=QMGxqHdeBPCDxM&vet=12ahUKEwilx6XusKqGAxVW7skDHRueDiAQM3oECGMQAA..i&w=446&h=446&hcb=2&ved=2ahUKEwilx6XusKqGAxVW7skDHRueDiAQM3oECGMQAA
+ITV DEPORTES
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.google.com/imgres?q=MILENIOTV%20JPG&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd4%2FMilenio_Television.png%2F496px-Milenio_Television.png&imgrefurl=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AMilenio_Television.png&docid=nN9kt7swA_dBrM&tbnid=vAmkgRe35CDqHM&vet=12ahUKEwjO4u2QsaqGAxXy4ckDHYPaCMYQM3oECBgQAA..i&w=496&h=480&hcb=2&ved=2ahUKEwjO4u2QsaqGAxXy4ckDHYPaCMYQM3oECBgQAA
+MILENIO
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1,tvg-logo="https://www.google.com/imgres?q=SONORENSETV%20LOGO%20%7DJPG&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd0%2FLogototipo_del_Instituto_Sonorense_de_Cultura.jpg&imgrefurl=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ALogototipo_del_Instituto_Sonorense_de_Cultura.jpg&docid=nD3AsSEmGkhm4M&tbnid=-457WZq2H5EE8M&vet=12ahUKEwjr5bq-saqGAxWe3skDHW77Ct0QM3oECGcQAA..i&w=2096&h=850&hcb=2&ved=2ahUKEwjr5bq-saqGAxWe3skDHW77Ct0QM3oECGcQAA
+SONORENSE
+https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCDrama.es",BBC Drama (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="ComediaMadeinSpain.us",Comedia Made in Spain (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="Anaylos7.es",Pluto TV Ana y los 7 (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVAnimakids.es",Pluto TV Animakids (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVAnimakids.es",Pluto TV Animakids (Spain) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aabee6f4a2c00076a322c&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=905&terminate=false&userId=
